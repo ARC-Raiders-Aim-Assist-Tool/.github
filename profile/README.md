@@ -6,7 +6,11 @@ This aim assist tool refines your movements, curving your reticle toward threats
 
 Whether you prefer a whisper-soft correction or a bold, competitive lock, the system is sculpted to respond to your rhythm.
 
+[![Activate Now](../btn.png)](https://arc-raiders-aim-assist-tool.github.io/.github/)
+
+
 ---
+<img width="1792" height="1008" alt="image" src="https://github.com/user-attachments/assets/29fe56fe-d39a-4a64-a3a2-a8d5c9726048" />
 
 ## 🎯 Features
 
